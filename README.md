@@ -23,11 +23,11 @@ Tech Stack
 
 Language: Kotlin
 
-UI: Jetpack Compose (Material 3)
+UI: Jetpack Compose (Material 3
 
 Asynchronous Flow: Kotlin Coroutines & Flow
 
-Dependency Injection: Koin (v4.2.1)
+Dependency Injection: Koin
 
 Networking: Retrofit + OkHttp + Kotlinx Serialization
 
